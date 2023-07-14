@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool: 
- name: sturdy adventure
+ name: Default
 
 variables:
     buildConfiguration: 'Release'
